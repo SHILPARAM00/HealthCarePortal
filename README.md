@@ -30,3 +30,25 @@ Import healthcare_portal.sql into MySQL before running the project.
 
 ## Author
 Shilpa
+## Project Screenshots
+
+### Home Page
+![Home](home.jpeg)
+
+### Login Page
+![Login](login.jpg)
+
+### Patient Dashboard
+![Patient](patient_dashboard.jpg)
+
+### Doctor Dashboard
+![Doctor](doctor_dashboard.jpg)
+
+### Doctor Dashboard 2
+![Doctor2](doctor_dashboard2.jpg)
+
+### Admin Dashboard
+![Admin](admin_dashboard.jpg)
+
+### Prescription
+![Prescription](prescription.jpg)
